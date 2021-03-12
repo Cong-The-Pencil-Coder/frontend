@@ -8,7 +8,7 @@ const headerStyle = {
 export default function Header() {
     return (
         <header style={headerStyle}>
-            <h1>Replicon Demo Project</h1>
+            <h1>Project Management Demo</h1>
         </header>
     )
 }
